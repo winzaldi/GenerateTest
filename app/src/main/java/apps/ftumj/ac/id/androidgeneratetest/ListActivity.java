@@ -2,6 +2,7 @@ package apps.ftumj.ac.id.androidgeneratetest;
 
 import android.app.SearchManager;
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.DefaultItemAnimator;
@@ -101,6 +102,10 @@ public class ListActivity extends AppCompatActivity  implements  RumahAdapter.Ru
     @Override
     public void onRumahSelected(Rumah rumah) {
         Toast.makeText(getApplicationContext(), "Selected: " + rumah.getNama() + ", " + rumah.getAlamat(), Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this,MapsRouteActivity.class);
+        intent.putExtra("latitude",rumah.getLat());
+        intent.putExtra("longitude",rumah.getLng());
+        startActivity(intent);
     }
 
     @Override
