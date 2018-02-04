@@ -1,5 +1,72 @@
 [
-  {"kode":1,"nama":"Masjid Jami Yarsi","alamat":"Jl. Cempaka Putih Tengah I Rt.011/05 Cempaka Putih Timur","lat":106.8708701,"lng":  -6.169888},
-  {"kode":2,"nama":"Masjid Istiqlal","alamat":"Jl. Taman Wijaya Kusuma Rt. 002/08, Pasar Baru, Sawah Besar","lat":106.8309278,  "lng":  -6.1699936},
-  {"kode":3,"nama":"Masjid Sunda Kelapa","alamat":"Jl.Taman Sunda Kelapa no.16 Rt. 05/06, Menteng","lat": 106.8366055, "lng":  -6.2019344}
+  {
+    "kode": 1,
+    "nama": "Masjid Jami Yarsi",
+    "alamat": "Jl. Cempaka Putih Tengah I Rt.011/05 Cempaka Putih Timur",
+    "lat": 106.8708701,
+    "lng": -6.169888
+  },
+  {
+    "kode": 2,
+    "nama": "Masjid Istiqlal",
+    "alamat": "Jl. Taman Wijaya Kusuma Rt. 002/08, Pasar Baru, Sawah Besar",
+    "lat": 106.8309278,
+    "lng": -6.1699936
+  },
+  {
+    "kode": 3,
+    "nama": "Masjid Sunda Kelapa",
+    "alamat": "Jl.Taman Sunda Kelapa no.16 Rt. 05/06, Menteng",
+    "lat": 106.8366055,
+    "lng": -6.2019344
+  },
+  {
+    "kode": 4,
+    "nama": "Masjid Al-Fawwaz",
+    "alamat": "Jl.Bungur Besar no.54 Rt. 003/01, Gunung Sahari Selatan",
+    "lat": 106.840143,
+    "lng": -6.1621569
+  },
+  {
+    "kode": 5,
+    "nama": "Masjid Jami Usolih",
+    "alamat": "Jl.Cempaka Raya Rt. 009/02, Cempaka Putih Barat",
+    "lat": 106.8607159,
+    "lng": -6.1780219
+  },
+  {
+    "kode": 6,
+    "nama": "Gereja Kathederal",
+    "alamat": "Jl.Kathederal Rt. 002/08, Pasar Baru,Sawah Besar",
+    "lat": 106.8332786,
+    "lng": -6.1691599
+  },
+  {
+    "kode": 7,
+    "nama": "Gereja GKI",
+    "alamat": "Jl.Bungur Besar Rw 07, Gunung Sahari Selatan",
+    "lat": 106.8418508,
+    "lng": -6.1674053
+  },
+  {
+    "kode": 8,
+    "nama": "Gereja Baptis Kalvari",
+    "alamat": "Jl. Gunung Sahari VI  Rt. 005, Gunaung Sahari Utara",
+    "lat": 106.8386128,
+    "lng": -6.1578628
+  },
+  {
+    "kode": 9,
+    "nama": "Vihara Budhayana",
+    "alamat": "Jl. Lautze No. 38 Rt. 003/05, Kartini, Sawah Besar",
+    "lat": 106.8307946,
+    "lng": -6.1588207
+  },
+  {
+    "kode": 10,
+    "nama": "Vihara Budi Dharma",
+    "alamat": "Jl. Karang Anyar Gg.1 Rt. 009/01, Karang Anyar,Sawah Besar",
+    "lat": 106.82772,
+    "lng": -6.154298
+  }
 ]
